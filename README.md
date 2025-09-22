@@ -157,6 +157,12 @@ This tool is intended for educational and efficiency purposes. Users should:
 - Verify completion of actual learning objectives
 - Respect platform terms of service
 
+## Credits
+
+Based on community contributions from:
+- https://www.reddit.com/r/chaoticgood/comments/1bp9vch/fuck_easyllamma_training_fast_forward_script/
+- https://pastebin.com/yf1717s8
+
 ## License
 
 MIT License - See LICENSE file for details
